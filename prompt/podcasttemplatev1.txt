@@ -1,0 +1,98 @@
+você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em front-end. crie 5 nomes criativos para um podcast de front-end nerd feito por nerds e que tenha algum trocadilho nerd no nome do podcast !
+
+o podcast vai falar sobre dicas e novidades sobre o mundo do front-end e o que está acontecendo no mercado de tecnologia, programação.
+
+{REGRAS}
+
+> o nome deve ser enxuto. um nome e um subtítulo.
+> o nome tenha algum trocadilho nerd com o nome de franquias conhecidas como stars wars, senhor dos anéis, game of thrones, matrix.
+> o nome deve ter alguma palavra forte que remeta front-end.
+
+{REGRAS NEGATIVAS}
+
+> não quero que o nome contenha palavras em inglês.
+
+ChatGPT
+
+Claro! Aqui estão cinco sugestões de nomes criativos para o podcast de front-end, cada um com um trocadilho nerd e uma referência a franquias conhecidas:
+
+O Senhor dos Pixels: Desvendando o Front-end
+A Guerra dos Frameworks: Novidades do Front-end
+O Trono do CSS: Domine o Front-end
+Código dos Anéis: O Universo do Front-end
+A Revolução do Front: O Futuro do Front-end
+
+O Senhor dos Pixels: Aventuras no Front-end
+A Guerra dos Frameworks: Batalhas e Tendências no Front-end
+O Trono do CSS: Domine as Técnicas de Front-end
+Código dos Anéis: Explorando o Universo do Front-end
+A Revolução do Front: Inovações e Dicas de Front-end
+
+
+crie variações do título e do subtítulo do título abaixo:
+
+Código dos Anéis: Explorando o Universo do Front-end
+Código dos Anéis: Desvendando o Mundo do Front-end
+Código dos Anéis: Segredos e Técnicas do Front-end
+Código dos Anéis: A Jornada pelo Front-end
+Código dos Anéis: Aventuras no Reino do Front-end
+Código dos Anéis: O Caminho dos Mestres do Front-end
+
+E algumas variações do subtítulo:
+
+Explorando o Universo do Front-end
+Descobrindo os Segredos do Front-end
+Mergulhando no Mundo do Front-end
+Desvendando o Mundo do Front-end
+Navegando pelo Universo do Front-end
+
+
+*************************************************************************************************************************************
+
+você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia focado em front-end cujo nome é
+Código dos Anéis: Explorando o Universo do Front-end e que tenha foco no fron-end, com o público alvo de iniciantes em front-end.
+
+o formato do roteiro deve ser:
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+[FINALIZAÇÃO]
+
+
+{REGRAS}
+> no bloco [INTRODUÇÃO] substitua por uma introdução igual a introdução do canal Ei nerd do peter jordan.
+> no bloco [CURIOSIDADE 1] substitua por uma curiosidade CSS.
+> no bloco [CURIOSIDADE 2] fale sobre uma ferramenta para front-end.
+> no bloco [CURIOSIDADE 3] fale sobre o JavaScript.
+> no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou o Diego e esse foi o CodeQuest dessa semana'.
+> use termos de fácil explicação.
+> o podcast será apresentado somente por uma pessoa o 'Diego'.
+> o podcast deve ser curto. 
+
+{REGRAS NEGATIVAS}
+> não use muitos termos técnicos.
+> não ultrapasse 5 minutos de duração.
+
+
+
+
+[INTRODUÇÃO]
+
+E aí, pessoal! Sejam muito bem-vindos ao Código dos Anéis: Explorando o Universo do Front-end, o seu podcast sobre o fascinante mundo do desenvolvimento web! Eu sou o Diego e hoje vamos embarcar em uma jornada incrível pelo universo do front-end, com dicas e curiosidades que vão te deixar ainda mais animado para aprender e dominar essa área. Então, sem mais delongas, vamos começar!
+
+[CURIOSIDADE 1]
+
+Você sabia que com CSS você pode criar animações impressionantes sem precisar de JavaScript? Isso mesmo! O CSS possui uma propriedade chamada "animation" que permite criar efeitos de transição, animações de movimento e muito mais. Por exemplo, você pode fazer um elemento deslizar suavemente de um lado para o outro, mudar de cor, ou até mesmo pulsar como um coração batendo. Tudo isso apenas com CSS! Além de deixar seu site mais interativo e dinâmico, essas animações também ajudam a melhorar a experiência do usuário.
+
+[CURIOSIDADE 2]
+
+Agora, vamos falar de uma ferramenta incrível que todo desenvolvedor front-end iniciante deveria conhecer: o VS Code. O Visual Studio Code é um editor de código fonte gratuito, criado pela Microsoft, que se tornou um dos mais populares entre os desenvolvedores. Ele é leve, rápido e possui uma infinidade de extensões que facilitam muito a vida de quem está começando. Por exemplo, você pode instalar extensões para auto-completar código, depurar aplicações e até mesmo personalizar o visual do editor. Se você ainda não usa o VS Code, fica a dica para experimentar!
+
+[CURIOSIDADE 3]
+
+Por último, mas não menos importante, vamos falar sobre o JavaScript. Você sabia que o JavaScript é uma das linguagens de programação mais populares do mundo? E não é por acaso! O JavaScript permite que você crie funcionalidades interativas nos seus sites, como sliders de imagens, validação de formulários, e até jogos. Uma das coisas mais legais do JavaScript é que ele roda diretamente no navegador, então você pode ver suas alterações em tempo real. Além disso, ele é super versátil e está presente em praticamente todos os sites modernos. Então, se você está começando no front-end, aprender JavaScript é essencial!
+
+[FINALIZAÇÃO]
+
+E por hoje é isso, pessoal! Espero que tenham gostado das curiosidades e dicas que compartilhei. Lembre-se de continuar explorando e praticando, porque o universo do front-end é vasto e cheio de oportunidades. Eu sou o Diego e esse foi o Código dos Anéis: Explorando o Universo do Front-end dessa semana. Até a próxima!
